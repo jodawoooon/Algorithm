@@ -79,8 +79,6 @@ public class Solution_SWEA_1949_등산로조성 {
 					}
 				}
 			}
-			ans = Math.max(ans, cnt);
-
-	
+			
 	}
 }
