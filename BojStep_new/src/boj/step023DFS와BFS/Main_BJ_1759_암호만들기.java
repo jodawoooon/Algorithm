@@ -38,9 +38,9 @@ public class Main_BJ_1759_암호만들기 {
 		}
 
 
-		dfs(0, "",0,0,'a');
+		dfs("",0,0,0);
 	}
-	private static void dfs(int idx, String str, int mCnt, int jCnt, char before) {
+	private static void dfs(String str, int mCnt, int jCnt, int before) {
 		if(str.length()==L) {
 			if(mCnt>=1&&jCnt>=2) {
 				System.out.println(str);
@@ -50,16 +50,16 @@ public class Main_BJ_1759_암호만들기 {
 		}
 		
 		for (int i = 0; i < 26; i++) {
-			if(!visit[i]&&arr[i]&&(char)(i+'a')>=before) {
+			if(!visit[i]&&arr[i]&&i>=before) {
 				
 				char tmp = (char) (i+'a');
 				if(tmp=='a'||tmp=='e'||tmp=='i'||tmp=='o'||tmp=='u') {
 					visit[i]=true;
-					dfs(idx+1, str+tmp, mCnt+1, jCnt, tmp);
+					dfs(str+tmp, mCnt+1, jCnt, i);
 					visit[i]=false;
 				}else {
 					visit[i]=true;
-					dfs(idx+1, str+tmp, mCnt, jCnt+1, tmp);
+					dfs(str+tmp, mCnt, jCnt+1, i);
 					visit[i]=false;
 				}
 				
