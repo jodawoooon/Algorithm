@@ -1,4 +1,4 @@
-package boj.step023DFS와BFS;
+package boj.DFS와BFS;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

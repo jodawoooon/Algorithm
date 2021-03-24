@@ -1,4 +1,4 @@
-package boj.step023DFS와BFS;
+package boj.DFS와BFS;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_BJ_1697_숨바꼭질2 {
+public class Main_BJ_1697_숨바꼭질 {
 	static int N, K, visited[];
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
