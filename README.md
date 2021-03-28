@@ -29,6 +29,11 @@
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | S1 | |
 
 
+### 💡 DP
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | DP | S1 | |
+| 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP | S1 | |
 
 
 ## SWEA
