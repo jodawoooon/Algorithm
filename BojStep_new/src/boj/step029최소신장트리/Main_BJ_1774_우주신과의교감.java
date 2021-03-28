@@ -11,10 +11,12 @@ public class Main_BJ_1774_우주신과의교감 {
 	static int N,M, parents[];
 	
 	static class point{
+
 		int x,y;
 
 		public point(int x, int y) {
 			super();
+
 			this.x = x;
 			this.y = y;
 		}
@@ -50,7 +52,7 @@ public class Main_BJ_1774_우주신과의교감 {
 		
 		
 		pointList = new ArrayList<>();
-		for (int n = 0; n < N; n++) {
+		for (int n = 1; n <= N; n++) {
 			st = new StringTokenizer(br.readLine());
 			int x = Integer.parseInt(st.nextToken());
 			int y = Integer.parseInt(st.nextToken());
@@ -59,6 +61,8 @@ public class Main_BJ_1774_우주신과의교감 {
 		
 
 		parents = new int[N+1];
+
+		makeSet();
 		for (int i = 0; i < M; i++) {
 			st = new StringTokenizer(br.readLine());
 			int x = Integer.parseInt(st.nextToken());
@@ -74,20 +78,19 @@ public class Main_BJ_1774_우주신과의교감 {
 		
 		edgeList = new ArrayList<>();
 		//edgeList 만들기
-		for (int i = 1; i <= N; i++) {
-			for (int j = 1; j <= N; j++) {
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < N; j++) {
 				if(i==j) continue;
 				point a = pointList.get(i);
 				point b = pointList.get(j);
 				double dis = Math.sqrt(Math.pow(a.x-b.x, 2)+Math.pow(a.y-b.y, 2));
 				
-				edgeList.add(new Edge(i,j,dis));
+				edgeList.add(new Edge(i+1,j+1,dis));
 			}
 		}
 		
 		Collections.sort(edgeList);
 		
-		makeSet();
 
 		
 		double result = 0;
