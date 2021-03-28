@@ -5,7 +5,8 @@
 ## BOJ 
 
 
-### DFS&BFS
+
+### 💡 DFS&BFS 
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | DFS | G5 | |
