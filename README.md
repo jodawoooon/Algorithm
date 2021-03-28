@@ -39,6 +39,7 @@
 |--|--|--|--|--|
 | 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드 와샬 | G4 | |
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 플로이드 와샬 | S1 | ||
+| 1916 | [최소 비용 구하기](https://www.acmicpc.net/problem/1916) | 다익스트라 | G5 | ||
 | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 크루스칼 | G4 | ||
 | 1774 | [우주신과의 교감](https://www.acmicpc.net/problem/1774) | 크루스칼 | G4 | ||
 | 4386 | [별자리 만들기](https://www.acmicpc.net/problem/4386) | 크루스칼 | G4 | ||
@@ -77,6 +78,9 @@
 ### 💡 정렬
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
+| 1026 | [보물](https://www.acmicpc.net/problem/1026) | 정렬 | S4 | ||
+| 10815 | [숫자카드](https://www.acmicpc.net/problem/10815) | 이분탐색 | S4 | ||
+| 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 정렬 | S4 | ||
 | 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 정렬 | S5 | ||
 | 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 정렬 | S3 | ||
 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | 정렬 | S5 | ||
