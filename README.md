@@ -97,6 +97,14 @@
 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브루트포스 | B2 | ||
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 브루트포스 | S5 | ||
 
+### 💡 재귀
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 10870 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | 재귀 | B2 | ||
+| 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | 재귀 | B3 | ||
+| 11729 | [하노이 탑 이동순서](https://www.acmicpc.net/problem/11729) | 재귀 | S2 | ||
+| 2447 | [별 찍기](https://www.acmicpc.net/problem/2447) | 재귀 | S1 | ||
+
 &nbsp;&nbsp;&nbsp;
 ## 🔍 SWEA
 | 번호 | 제목 | 유형 | 레벨 | 비고
