@@ -5,7 +5,6 @@
 ## BOJ 
 
 
-
 ### 💡 DFS&BFS 
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
@@ -29,14 +28,13 @@
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | S1 | |
 
 
-
 ### 💡 DP
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | DP | S1 | |
-| 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP | S1 | |
-
-
+| 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP | S1 | 
+| 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | DP | S3 | 
+| 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | DP | S2 | 
 
 ### 💡 그래프
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -49,12 +47,44 @@
 | 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | MST | S3 | ||
 
 
-
 ### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
 | 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Union-Find | G4 | ||
 | 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | Union-Find | G4 | ||
+| 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | Queue | S4 | ||
+| 2164 | [카드 2](https://www.acmicpc.net/problem/2164) | Queue | S4 | ||
+| 10773 | [제로](https://www.acmicpc.net/problem/10773) | Stack | S4 | ||
+| 10828 | [스택](https://www.acmicpc.net/problem/10828) | Stack | S4 | ||
+| 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | Stack | S3 | ||
+| 4949 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | Stack | S4 | ||
+| 9012 | [괄호](https://www.acmicpc.net/problem/9012) | Stack | S4 | ||
+
+### 💡 그리디
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 11047 | [동전](https://www.acmicpc.net/problem/11047) | Greedy | S2 | ||
+| 11399 | [ATM](https://www.acmicpc.net/problem/11399) | Greedy | S3 | ||
+| 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | Greedy | S2 | ||
+| 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | Greedy | S2 | ||
+
+### 💡 백트래킹
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 백트래킹 | S3 | ||
+| 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 백트래킹 | S3 | ||
+| 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 백트래킹 | S3 | ||
+| 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | 백트래킹 | S3 | ||
+
+### 💡 브루트포스
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 브루트포스 | S5 | ||
+| 1182 | [부분 수열의 합](https://www.acmicpc.net/problem/1182) | 브루트포스 | S2 | ||
+| 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 브루트포스 | S5 | ||
+| 2231 | [분해합](https://www.acmicpc.net/problem/2231) | 브루트포스 | B2 | ||
+| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브루트포스 | B2 | ||
+| 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 브루트포스 | S5 | ||
 
 
 ## SWEA
