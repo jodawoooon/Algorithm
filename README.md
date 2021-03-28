@@ -2,7 +2,7 @@
 
 
 
-## BOJ 
+## 🔍 BOJ 
 
 
 ### 💡 DFS&BFS 
@@ -86,7 +86,21 @@
 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브루트포스 | B2 | ||
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 브루트포스 | S5 | ||
 
+## 🔍 SWEA
 
-## SWEA
+## 🔍 JO
 
-## JO
+
+
+##  🔍 A형 Test 대비 문제
+| 종류 | 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|--|
+| BOJ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | 브루트포스 | S4 | ||
+| BOJ | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | BFS | G4 | ||
+| BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | S4 | ||
+| SWEA | 1767 | 프로세서 연결하기 | DFS |  | ||
+| SWEA | 1238 | Contact | BFS | D4 | ||
+| SWEA | 1949 | 등산로 조성 | DFS | | ||
+| SWEA | 1952 | 수영장 | DFS |  | ||
+| SWEA | 4008 | 숫자 만들기 | DFS |  | ||
+| SWEA | 4012 | 요리사 | Comb |  | ||
