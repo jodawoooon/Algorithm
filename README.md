@@ -1,11 +1,8 @@
-# 2021 Algo 개인공부
+# 2021 Algo 기록
 
 
 
-## BOJ 
-
-
-
+## 🔍 BOJ 
 ### 💡 DFS&BFS 
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
@@ -29,8 +26,95 @@
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | S1 | |
 
 
+### 💡 DP
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | DP | S1 | |
+| 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP | S1 | 
+| 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | DP | S3 | 
+| 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | DP | S2 | 
+
+### 💡 그래프
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드 와샬 | G4 | |
+| 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 플로이드 와샬 | S1 | ||
+| 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 크루스칼 | G4 | ||
+| 1774 | [우주신과의 교감](https://www.acmicpc.net/problem/1774) | 크루스칼 | G4 | ||
+| 4386 | [별자리 만들기](https://www.acmicpc.net/problem/4386) | 크루스칼 | G4 | ||
+| 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | MST | S3 | ||
 
 
-## SWEA
+### 💡 자료구조
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Union-Find | G4 | ||
+| 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | Union-Find | G4 | ||
+| 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | Queue | S4 | ||
+| 2164 | [카드 2](https://www.acmicpc.net/problem/2164) | Queue | S4 | ||
+| 10773 | [제로](https://www.acmicpc.net/problem/10773) | Stack | S4 | ||
+| 10828 | [스택](https://www.acmicpc.net/problem/10828) | Stack | S4 | ||
+| 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | Stack | S3 | ||
+| 4949 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | Stack | S4 | ||
+| 9012 | [괄호](https://www.acmicpc.net/problem/9012) | Stack | S4 | ||
 
-## JO
+### 💡 그리디
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 11047 | [동전](https://www.acmicpc.net/problem/11047) | Greedy | S2 | ||
+| 11399 | [ATM](https://www.acmicpc.net/problem/11399) | Greedy | S3 | ||
+| 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | Greedy | S2 | ||
+| 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | Greedy | S2 | ||
+
+### 💡 백트래킹
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | 백트래킹 | S3 | ||
+| 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | 백트래킹 | S3 | ||
+| 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 백트래킹 | S3 | ||
+| 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | 백트래킹 | S3 | ||
+
+### 💡 브루트포스
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 브루트포스 | S5 | ||
+| 1182 | [부분 수열의 합](https://www.acmicpc.net/problem/1182) | 브루트포스 | S2 | ||
+| 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 브루트포스 | S5 | ||
+| 2231 | [분해합](https://www.acmicpc.net/problem/2231) | 브루트포스 | B2 | ||
+| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브루트포스 | B2 | ||
+| 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 브루트포스 | S5 | ||
+
+&nbsp;&nbsp;&nbsp;
+## 🔍 SWEA
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 3307 | 최장 증가 부분 수열 | 브루트포스 | D3 | ||
+| 1227 | 미로2 | BFS/DFS | D4 | ||
+| 1251 | 하나로 | 크루스칼 | D4 | ||
+| 1486 | 장훈이의 높은 선반 | comb | D4 | ||
+| 3289 | 서로소 집합 | Union-Find | D4 | ||
+| 3234 | 준환이의 양팔저울 | comb | D4 | ||
+| 1263 | 사람 네트워크 2 | 플로이드 와샬 | D6 | ||
+| 2105 | 디저트 카페 | DFS | | ||
+
+&nbsp;&nbsp;&nbsp;
+## 🔍 JO
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 16681 | 해밀턴 순환회로 | DFS | | ||
+| 1037 | 오류 교정 | 브루트포스 || ||
+| 1205 | 조커 | 브루트포스 | | ||
+
+&nbsp;&nbsp;&nbsp;
+##  🔍 A형 Test 대비 문제
+| 종류 | 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|--|
+| BOJ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | 브루트포스 | S4 | ||
+| BOJ | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | BFS | G4 | ||
+| BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | S4 | ||
+| SWEA | 1767 | 프로세서 연결하기 | DFS |  | ||
+| SWEA | 1238 | Contact | BFS | D4 | ||
+| SWEA | 1949 | 등산로 조성 | DFS | | ||
+| SWEA | 1952 | 수영장 | DFS |  | ||
+| SWEA | 4008 | 숫자 만들기 | DFS |  | ||
+| SWEA | 4012 | 요리사 | Comb |  | ||
