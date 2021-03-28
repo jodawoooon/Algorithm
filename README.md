@@ -29,11 +29,32 @@
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | S1 | |
 
 
+
 ### 💡 DP
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | DP | S1 | |
 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP | S1 | |
+
+
+
+### 💡 그래프
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드 와샬 | G4 | |
+| 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | 플로이드 와샬 | S1 | ||
+| 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 크루스칼 | G4 | ||
+| 1774 | [우주신과의 교감](https://www.acmicpc.net/problem/1774) | 크루스칼 | G4 | ||
+| 4386 | [별자리 만들기](https://www.acmicpc.net/problem/4386) | 크루스칼 | G4 | ||
+| 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | MST | S3 | ||
+
+
+
+### 💡 자료구조
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Union-Find | G4 | ||
+| 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | Union-Find | G4 | ||
 
 
 ## SWEA
