@@ -44,7 +44,10 @@
 | 1774 | [우주신과의 교감](https://www.acmicpc.net/problem/1774) | 크루스칼 | G4 | ||
 | 4386 | [별자리 만들기](https://www.acmicpc.net/problem/4386) | 크루스칼 | G4 | ||
 | 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | MST | S3 | ||
-
+| 11779 | [최소 비용 구하기 2](https://www.acmicpc.net/problem/11779) | 다익스트라 | G3 | ||
+| 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | 다익스트라/BFS | G4 | ||
+| 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라/BFS | G5 | ||
+| 1504 | [특정한 최단경로](https://www.acmicpc.net/problem/1504) | 다익스트라 | G4 | ||
 
 ### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -80,9 +83,6 @@
 |--|--|--|--|--|
 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | 정렬 | S4 | ||
 | 10815 | [숫자카드](https://www.acmicpc.net/problem/10815) | 이분탐색 | S4 | ||
-| 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 정렬 | S4 | ||
-| 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 정렬 | S5 | ||
-| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 정렬 | S3 | ||
 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | 정렬 | S5 | ||
 | 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | 정렬 | S5 | ||
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 정렬 | S5 | ||
@@ -90,6 +90,12 @@
 | 2108 | [통계학](https://www.acmicpc.net/problem/2108) | 정렬 | S4 | ||
 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 정렬 | B1 | ||
 | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | 정렬 | S5 | ||
+| 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 정렬 | S4 | ||
+| 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 정렬 | S5 | ||
+| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 정렬 | S3 | ||
+| 1431 | [시리얼번호](https://www.acmicpc.net/problem/1431) | 정렬 | S3 | ||
+| 10825 | [국영수](https://www.acmicpc.net/problem/10825) | 정렬 | S4 | ||
+| 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | 정렬 | S4 | ||
 
 ### 💡 브루트포스
 | 번호 | 제목 | 유형 | 레벨 | 비고
