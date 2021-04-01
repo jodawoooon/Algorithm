@@ -97,6 +97,14 @@
 | 10825 | [국영수](https://www.acmicpc.net/problem/10825) | 정렬 | S4 | ||
 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | 정렬 | S4 | ||
 
+### 💡 수학
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | 수학 | S4 | ||
+| 12871 | [무한문자열](https://www.acmicpc.net/problem/12871) | 수학 | S5 | ||
+| 1934 | [최소공배수](https://www.acmicpc.net/problem/1934) | 수학 | S5 | ||
+| 2609 | [최대공약수와 최대공배수](https://www.acmicpc.net/problem/2609) | 수학 | S5 | ||
+
 ### 💡 브루트포스
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
@@ -114,6 +122,7 @@
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | 재귀 | B3 | ||
 | 11729 | [하노이 탑 이동순서](https://www.acmicpc.net/problem/11729) | 재귀 | S2 | ||
 | 2447 | [별 찍기](https://www.acmicpc.net/problem/2447) | 재귀 | S1 | ||
+
 
 &nbsp;&nbsp;&nbsp;
 ## 🔍 SWEA
