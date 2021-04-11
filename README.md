@@ -33,6 +33,8 @@
 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | DP | S1 | 
 | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | DP | S3 | 
 | 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | DP | S2 | 
+| 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | DP | S3 | 
+| 10844 | [쉬운계단수](https://www.acmicpc.net/problem/10844) | DP | S1 | 
 
 ### 💡 그래프
 | 번호 | 제목 | 유형 | 레벨 | 비고
