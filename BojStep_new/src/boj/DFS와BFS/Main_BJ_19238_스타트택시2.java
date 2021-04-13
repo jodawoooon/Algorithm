@@ -14,7 +14,7 @@ public class Main_BJ_19238_스타트택시2 {
 	static int dx[] = {-1,1,0,0};
 	static int dy[] = {0,0,-1,1};
 	static ArrayList<Info> infoList;
-	static Queue<Node> queue, queue2;
+	static Queue<Node> queue;
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
@@ -70,7 +70,7 @@ public class Main_BJ_19238_스타트택시2 {
 				int nextY = infoList.get(i).stY;
 				
 				
-				int dis = bfs(startX, startY, nextX, nextY);
+				int dis = bfs(nextX, nextY);
 	
 				if(dis==-1) {
 					// 모든 손님을 이동시킬 수 없는 경우에도 -1을 출력한다.
@@ -108,7 +108,7 @@ public class Main_BJ_19238_스타트택시2 {
 				//System.out.println(energy);
 				startX = stX;
 				startY = stY;
-				int moveDis = bfs(stX, stY, dsX, dsY);
+				int moveDis = bfs(dsX, dsY);
 				
 				if(moveDis==-1) {
 					System.out.println(-1);
@@ -140,7 +140,7 @@ public class Main_BJ_19238_스타트택시2 {
 	}
 	
 
-	private static int bfs(int startX, int startY, int nextX, int nextY) {
+	private static int bfs( int nextX, int nextY) {
 		
 		
 		boolean visited[][] = new boolean[N+1][N+1];
