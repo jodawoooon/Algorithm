@@ -24,7 +24,8 @@
 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | BFS | S1 | |
 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | BFS | S1 | |
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | S1 | |
-
+| 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | BFS | G4 | |
+| 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | BFS | G5 | |
 
 ### 💡 DP
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -50,6 +51,7 @@
 | 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | 다익스트라/BFS | G4 | ||
 | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라/BFS | G5 | ||
 | 1504 | [특정한 최단경로](https://www.acmicpc.net/problem/1504) | 다익스트라 | G4 | ||
+| 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) |  | G2 | ||
 
 ### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -138,6 +140,10 @@
 | 3234 | 준환이의 양팔저울 | comb | D4 | ||
 | 1263 | 사람 네트워크 2 | 플로이드 와샬 | D6 | ||
 | 2105 | 디저트 카페 | DFS | | ||
+| 1953 | 탈주범 검거 | BFS | | ||
+| 1249 | 보급로 | BFS | | ||
+| 1767 | 프로세서 연결하기 | DFS | | ||
+| 5644 | 무선 충전 | 시뮬 | | ||
 
 &nbsp;&nbsp;&nbsp;
 ## 🔍 JO
@@ -146,6 +152,7 @@
 | 16681 | 해밀턴 순환회로 | DFS | | ||
 | 1037 | 오류 교정 | 브루트포스 || ||
 | 1205 | 조커 | 브루트포스 | | ||
+| 2577 | 회전 초밥  | 투포인터 | ||
 
 &nbsp;&nbsp;&nbsp;
 ##  🔍 A형 Test 대비 문제
