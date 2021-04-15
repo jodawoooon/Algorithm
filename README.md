@@ -51,7 +51,7 @@
 | 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | 다익스트라/BFS | G4 | ||
 | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라/BFS | G5 | ||
 | 1504 | [특정한 최단경로](https://www.acmicpc.net/problem/1504) | 다익스트라 | G4 | ||
-| 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) |  | G2 | ||
+| 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | 크루스칼 | G2 | ||
 
 ### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
