@@ -17,22 +17,20 @@ public class Main_BJ_2846_오르막길3 {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 	    
-	    
-	    int before= arr[0];
+	    int end = arr[0];
 	    int start = arr[0];
-	    int ans = 0 ;
 	    
-	    for (int i = 1; i < N; i++) {
-	    	if(before>=arr[i]) {
-	    		ans = Math.max(ans, before-start);
-	    		start = arr[i];
-	    		before = arr[i];
-	    	}
-	    	
-	    	if(before<arr[i]) {
-	    		before=arr[i];
-	    		ans = Math.max(ans, before-start);
-	    	}
+	    int ans = 0;
+	    
+	    for (int i = 0; i < N; i++) {
+			if(end>=arr[i]) {
+				ans = Math.min(ans, end-start);
+				end = arr[i];
+				start = arr[i];
+			}else {
+				end = arr[i];
+				ans = Math.min(end, end-start);
+			}
 		}
 	    
 	    System.out.println(ans);
