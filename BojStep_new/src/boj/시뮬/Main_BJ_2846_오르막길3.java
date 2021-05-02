@@ -22,14 +22,15 @@ public class Main_BJ_2846_오르막길3 {
 	    
 	    int ans = 0;
 	    
-	    for (int i = 0; i < N; i++) {
+	    for (int i = 1; i < N; i++) {
 			if(end>=arr[i]) {
-				ans = Math.min(ans, end-start);
+				ans = Math.max(ans, end-start);
 				end = arr[i];
 				start = arr[i];
-			}else {
+			}
+			if(end<arr[i]){
 				end = arr[i];
-				ans = Math.min(end, end-start);
+				ans = Math.max(end, end-start);
 			}
 		}
 	    
