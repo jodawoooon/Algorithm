@@ -14,7 +14,7 @@
 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | BFS | S1 | |
 | 1759 | [암호만들기](https://www.acmicpc.net/problem/1759) | DFS | G5 | |
 | 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | BFS | S1 | |
-| 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | BFS | G4 | 必 |
+| 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | BFS | G4 | |
 | 2468 | [안전영역](https://www.acmicpc.net/problem/2468) | DFS | S1 | |
 | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | DFS | S3 | |
 | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | BFS | G5 | 必 |
@@ -26,6 +26,7 @@
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | BFS | S1 | |
 | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | BFS | G4 | |
 | 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | BFS | G5 | |
+| 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | BFS | G3 | |
 
 ### 💡 시뮬레이션
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -126,6 +127,10 @@
 | 1934 | [최소공배수](https://www.acmicpc.net/problem/1934) | 수학 | S5 | ||
 | 2609 | [최대공약수와 최대공배수](https://www.acmicpc.net/problem/2609) | 수학 | S5 | ||
 | 1708 | [볼록 껍질](https://www.acmicpc.net/problem/1708) | 수학 | G1 | ||
+| 11050 | [이항 계수](https://www.acmicpc.net/problem/11050) | 수학 | B1 | || 
+| 11051 | [이항 계수2](https://www.acmicpc.net/problem/11051) | 수학 | S1 | || 
+| 2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | 수학 | S4 | || 
+| 16463 | [13일의 ](https://www.acmicpc.net/problem/16463) | 수학 | S3 | || 
 
 ### 💡 브루트포스
 | 번호 | 제목 | 유형 | 레벨 | 비고
