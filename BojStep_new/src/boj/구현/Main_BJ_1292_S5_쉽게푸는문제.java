@@ -14,12 +14,8 @@ public class Main_BJ_1292_S5_쉽게푸는문제 {
 		A = Integer.parseInt(st.nextToken());
 		B = Integer.parseInt(st.nextToken());
 		
-	
-		int sumA = 0;
-		int sumB = 0;
-		
 		int cnt = 0;
-		int tgt = 1;
+
 		for (int i = 1; i <= B; i++) {
 			for (int j = 0; j < i; j++) {
 				cnt++;
