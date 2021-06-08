@@ -27,6 +27,7 @@
 | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | BFS | G4 | |
 | 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | BFS | G5 | |
 | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | BFS | G3 | |
+| 3055 | [탈출](https://www.acmicpc.net/problem/3055) | BFS | G5 | |
 
 ### 💡 시뮬레이션
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -150,6 +151,19 @@
 | 11729 | [하노이 탑 이동순서](https://www.acmicpc.net/problem/11729) | 재귀 | S2 | ||
 | 2447 | [별 찍기](https://www.acmicpc.net/problem/2447) | 재귀 | S1 | ||
 
+
+### 💡 문자열
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1620 | [나는야 포켓몬 마스터](https://www.acmicpc.net/problem/1620) | 문자열 | S4 | ||
+
+### 💡 구현
+| 번호 | 제목 | 유형 | 레벨 | 비고
+|--|--|--|--|--|
+| 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | 구현 | B1 | ||
+| 1292 | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | 구현 | S5 | ||
+| 1475 | [방번호](https://www.acmicpc.net/problem/1475) | 구현 | S5 | ||
+| 7287 | [등록](https://www.acmicpc.net/problem/7287) | 구현 | B5 | ||
 
 &nbsp;&nbsp;&nbsp;
 ## 🔍 SWEA
