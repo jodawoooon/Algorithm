@@ -3,7 +3,7 @@ package level1;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Solution_K번째수 {
+public class Solution_K번째수_정렬 {
 	public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         
