@@ -1,6 +1,6 @@
 package level1;
 
-public class Solution_모의고사 {
+public class Solution_모의고사_완탐 {
 	public int[] solution(int[] answers) {
         int[] answer;
         int[] stu1 = {1,2,3,4,5};
