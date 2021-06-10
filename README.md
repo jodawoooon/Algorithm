@@ -217,3 +217,7 @@
 |--|--|--|--|
 | K번째 수 | 정렬 | level1 | ||
 | 체육복 | greedy | level1 | ||
+| 가운데 글자 가져오기 | String | level1 | ||
+| 완주하지 못한 선수 | Hash or Sort | level1 | ||
+| 모의고사 | 완탐 | level1 | ||
+| 소수만들기 | comb | level1 | ||
