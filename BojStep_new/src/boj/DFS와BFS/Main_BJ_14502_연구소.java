@@ -14,28 +14,33 @@ public class Main_BJ_14502_연구소 {
 	static int[] dy = {0,0,-1,1};
 	public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
-        
-        map = new int[N][M];
-        
-        for (int i = 0; i < N; i++) {
-        	st = new StringTokenizer(br.readLine());
-			for (int j = 0; j < M; j++) {
-				map[i][j] = Integer.parseInt(st.nextToken());
-			}
+       
+        int T = Integer.parseInt(br.readLine());
+        for (int t = 1; t <= T; t++) {
+        	StringTokenizer st = new StringTokenizer(br.readLine());
+            N = Integer.parseInt(st.nextToken());
+            M = Integer.parseInt(st.nextToken());
+            
+            map = new int[N][M];
+            
+            for (int i = 0; i < N; i++) {
+            	st = new StringTokenizer(br.readLine());
+    			for (int j = 0; j < M; j++) {
+    				map[i][j] = Integer.parseInt(st.nextToken());
+    			}
+    		}
+            
+            
+            //0인곳 중에 3곳을 골라서 => 벽으로 바꾼다.
+            //그리고 바이러스를 확산시킨후 안전지역을 카운트한다
+            visited = new boolean[N][M];
+            
+            max = Integer.MIN_VALUE;
+            dfs(0,0,0);
+            
+            System.out.println("#"+t+" "+max);
 		}
         
-        
-        //0인곳 중에 3곳을 골라서 => 벽으로 바꾼다.
-        //그리고 바이러스를 확산시킨후 안전지역을 카운트한다
-        visited = new boolean[N][M];
-        
-        max = Integer.MIN_VALUE;
-        dfs(0,0,0);
-        
-        System.out.println(max);
         
 	}
 	private static void dfs(int i, int j, int cnt) {
