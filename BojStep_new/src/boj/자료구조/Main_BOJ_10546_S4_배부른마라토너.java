@@ -26,7 +26,7 @@ public class Main_BOJ_10546_S4_배부른마라토너 {
 			}else {
 				//동명이인인 경우
 				map.put(name, map.get(name)+1);
-			}
+			} 
 		}
 		
 		//완주자의 정보를 확인한다.
