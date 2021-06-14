@@ -1,4 +1,4 @@
-package boj.구현;
+package boj.자료구조;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
