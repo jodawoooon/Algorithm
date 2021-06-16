@@ -154,10 +154,14 @@
 | 2447 | [별 찍기](https://www.acmicpc.net/problem/2447) | 재귀 | S1 | ||
 
 
-### 💡 문자열
+### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
 |--|--|--|--|--|
-| 1620 | [나는야 포켓몬 마스터](https://www.acmicpc.net/problem/1620) | 문자열 | S4 | ||
+| 1620 | [나는야 포켓몬 마스터](https://www.acmicpc.net/problem/1620) | 해시 | S4 | ||
+| 10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 해시 | S4 | ||
+| 10845 | [큐](https://www.acmicpc.net/problem/10845) | 큐 | S4 | ||
+| 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | S4 | ||
+
 
 ### 💡 구현
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -165,6 +169,7 @@
 | 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | 구현 | B1 | ||
 | 1292 | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | 구현 | S5 | ||
 | 1475 | [방번호](https://www.acmicpc.net/problem/1475) | 구현 | S5 | ||
+| 2920 | [음계](https://www.acmicpc.net/problem/2920) | 구현 | B2 | ||
 | 7287 | [등록](https://www.acmicpc.net/problem/7287) | 구현 | B5 | ||
 
 &nbsp;&nbsp;&nbsp;
