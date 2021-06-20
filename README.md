@@ -235,3 +235,8 @@
 | 약수의합 | math | level1 | ||
 | 정수제곱근판별 | math | level1 | ||
 | 행렬의덧셈 | math | level1 | ||
+| 두정수사이의합 | math | level1 | ||
+| 로또의최고순위와최저순위(2021 Dev-Matching) | 구현 | level1 | ||
+| 신규아이디추천 (Kakao) | String | level1 | ||
+| 키패드누르기 (Kakao) | bfs | level1 | ||
+| 핸드폰번호가리기 | String | level1 | ||
