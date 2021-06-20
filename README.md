@@ -228,3 +228,10 @@
 | 완주하지 못한 선수 | Hash or Sort | level1 | ||
 | 모의고사 | 완탐 | level1 | ||
 | 소수만들기 | comb | level1 | ||
+| 나누어떨어지는숫자배열 | math | level1 | ||
+| 서울에서김서방찾기 |  | level1 | ||
+| 수박수박수 | string | level1 | ||
+| 약수의개수와덧셈 | math | level1 | ||
+| 약수의합 | math | level1 | ||
+| 정수제곱근판별 | math | level1 | ||
+| 행렬의덧셈 | math | level1 | ||
