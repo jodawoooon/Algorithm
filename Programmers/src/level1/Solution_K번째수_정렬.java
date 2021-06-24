@@ -14,10 +14,15 @@ public class Solution_K번째수_정렬 {
 			
 			ArrayList<Integer> list = new ArrayList<>();
 	        
+			//i번째 숫자까지 자른다.
 			for (int x = i-1; x < j; x++) {
 				list.add(array[x]);
 			}
+			
+			//정렬한다.
 			Collections.sort(list);
+			
+			//k번째에 있는 수를 구한다.
 			answer[c]=list.get(k-1);
 		}
         return answer;
