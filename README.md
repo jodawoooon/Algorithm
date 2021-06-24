@@ -231,12 +231,21 @@
 | 나누어떨어지는숫자배열 | math | level1 | ||
 | 서울에서김서방찾기 |  | level1 | ||
 | 수박수박수 | string | level1 | ||
-| 약수의개수와덧셈 | math | level1 | ||
-| 약수의합 | math | level1 | ||
-| 정수제곱근판별 | math | level1 | ||
-| 행렬의덧셈 | math | level1 | ||
-| 두정수사이의합 | math | level1 | ||
-| 로또의최고순위와최저순위(2021 Dev-Matching) | 구현 | level1 | ||
-| 신규아이디추천 (Kakao) | String | level1 | ||
-| 키패드누르기 (Kakao) | bfs | level1 | ||
-| 핸드폰번호가리기 | String | level1 | ||
+| 약수의 개수와 덧셈 | math | level1 | ||
+| 약수의 합 | math | level1 | ||
+| 정수 제곱근 판별 | math | level1 | ||
+| 행렬의 덧셈 | math | level1 | ||
+| 두 정수 사이의 합 | math | level1 | ||
+| 로또의 최고순위와 최저순위(2021 Dev-Matching) | 구현 | level1 | ||
+| 신규 아이디 추천 (Kakao) | String | level1 | ||
+| 키패드 누르기 (Kakao) | bfs | level1 | ||
+| 핸드폰 번호가 리기 | String | level1 | ||
+| 같은 숫자는 싫어 | 구현 | level1 | ||
+| 문자열을 정수로 바꾸기 | 구현 | level1 | ||
+| 자연수 뒤집어 배열로 만들기 | 구현 | level1 | ||
+| 정수 내림차순으로 배치하기 | 구현 | level1 | ||
+| 제일 작은수 제거하기 | 구현 | level1 | ||
+| 직사각형 별찍기 | 구현 | level1 | ||
+| 클라츠 추측 | 구현 | level1 | ||
+| 하샤드 수 | 구현 | level1 | ||
+| x만큼 간격이 있는 n개의 숫자 | 구현 | level1 | ||
