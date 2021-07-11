@@ -73,6 +73,7 @@
 | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라/BFS | G5 | ||
 | 1504 | [특정한 최단경로](https://www.acmicpc.net/problem/1504) | 다익스트라 | G4 | ||
 | 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | 크루스칼 | G2 | ||
+| 2458 | [](https://www.acmicpc.net/problem/2458) | BFS/플로이드 와샬 | G4 | |
 
 ### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -86,6 +87,12 @@
 | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | Stack | S3 | ||
 | 4949 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | Stack | S4 | ||
 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | Stack | S4 | ||
+| 1620 | [나는야 포켓몬 마스터](https://www.acmicpc.net/problem/1620) | 해시 | S4 | ||
+| 10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 해시 | S4 | ||
+| 10845 | [큐](https://www.acmicpc.net/problem/10845) | 큐 | S4 | ||
+| 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | S4 | ||
+| 7662 | [이중우선순위큐](https://www.acmicpc.net/problem/7662) | 이 | G5 | ||
+
 
 ### 💡 그리디
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -152,15 +159,6 @@
 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | 재귀 | B3 | ||
 | 11729 | [하노이 탑 이동순서](https://www.acmicpc.net/problem/11729) | 재귀 | S2 | ||
 | 2447 | [별 찍기](https://www.acmicpc.net/problem/2447) | 재귀 | S1 | ||
-
-
-### 💡 자료구조
-| 번호 | 제목 | 유형 | 레벨 | 비고
-|--|--|--|--|--|
-| 1620 | [나는야 포켓몬 마스터](https://www.acmicpc.net/problem/1620) | 해시 | S4 | ||
-| 10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 해시 | S4 | ||
-| 10845 | [큐](https://www.acmicpc.net/problem/10845) | 큐 | S4 | ||
-| 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | S4 | ||
 
 
 ### 💡 구현
