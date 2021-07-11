@@ -91,7 +91,7 @@
 | 10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 해시 | S4 | ||
 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | 큐 | S4 | ||
 | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | S4 | ||
-| 7662 | [이중우선순위큐](https://www.acmicpc.net/problem/7662) | 이 | G5 | ||
+| 7662 | [이중우선순위큐](https://www.acmicpc.net/problem/7662) | TreeMap | G5 | ||
 
 
 ### 💡 그리디
