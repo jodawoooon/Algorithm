@@ -248,3 +248,4 @@
 | 하샤드 수 | 구현 | level1 | ||
 | x만큼 간격이 있는 n개의 숫자 | 구현 | level1 | ||
 | 실패율 (Kakao) | Sorting | level1 | ||
+| 숫자 문자열과 영단어 (Kakao) | String | level1 | ||
