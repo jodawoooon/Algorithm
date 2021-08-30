@@ -73,7 +73,7 @@
 | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라/BFS | G5 | ||
 | 1504 | [특정한 최단경로](https://www.acmicpc.net/problem/1504) | 다익스트라 | G4 | ||
 | 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | 크루스칼 | G2 | ||
-| 2458 | [](https://www.acmicpc.net/problem/2458) | BFS/플로이드 와샬 | G4 | |
+| 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | BFS/플로이드 와샬 | G4 | |
 
 ### 💡 자료구조
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -92,7 +92,7 @@
 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | 큐 | S4 | ||
 | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | S4 | ||
 | 7662 | [이중우선순위큐](https://www.acmicpc.net/problem/7662) | TreeMap | G5 | ||
-
+| 9375 | [패션왕신해빈](https://www.acmicpc.net/problem/9375) | Hash | S3 | ||
 
 ### 💡 그리디
 | 번호 | 제목 | 유형 | 레벨 | 비고
