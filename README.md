@@ -250,3 +250,5 @@
 | 실패율 (Kakao) | Sorting | level1 | ||
 | 숫자 문자열과 영단어 (Kakao) | String | level1 | ||
 | 문자열압축 (Kakao) | String | level1 | ||
+| 문자열압축 (Kakao) | String | level2 | ||
+| 오픈채팅방 (Kakao) | String | level2 | ||
