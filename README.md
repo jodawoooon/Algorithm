@@ -252,3 +252,5 @@
 | 문자열압축 (Kakao) | String | level1 | ||
 | 문자열압축 (Kakao) | String | level2 | ||
 | 오픈채팅방 (Kakao) | String | level2 | ||
+| 오픈채팅방 (Kakao) | String | level2 | ||
+| 카카오프렌즈컬러링북 (Kakao) | BFS | level2 | ||
