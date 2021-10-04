@@ -93,6 +93,7 @@
 | 10866 | [덱](https://www.acmicpc.net/problem/10866) | 덱 | S4 | ||
 | 7662 | [이중우선순위큐](https://www.acmicpc.net/problem/7662) | TreeMap | G5 | ||
 | 9375 | [패션왕신해빈](https://www.acmicpc.net/problem/9375) | Hash | S3 | ||
+| 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | Tree | S2 | ||
 
 ### 💡 그리디
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -151,6 +152,7 @@
 | 2231 | [분해합](https://www.acmicpc.net/problem/2231) | 브루트포스 | B2 | ||
 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브루트포스 | B2 | ||
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 브루트포스 | S5 | ||
+| 18428 | [감시 피하기](https://www.acmicpc.net/problem/18428) | 브루트포스 | S1 | ||
 
 ### 💡 재귀
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -250,7 +252,10 @@
 | 실패율 (Kakao) | Sorting | level1 | ||
 | 숫자 문자열과 영단어 (Kakao) | String | level1 | ||
 | 문자열압축 (Kakao) | String | level1 | ||
-| 문자열압축 (Kakao) | String | level2 | ||
-| 오픈채팅방 (Kakao) | String | level2 | ||
+| 타겟넘버 | dfs | level2 | ||
+| 메뉴리뉴얼 (Kakao) | String | level2 | ||
 | 오픈채팅방 (Kakao) | String | level2 | ||
 | 카카오프렌즈컬러링북 (Kakao) | BFS | level2 | ||
+| 124나라의 숫자 | Math | level2 | ||
+| 전화번호 목록 | String | level2 | ||
+| 최댓값과 최솟값 | Math | level2 | ||
