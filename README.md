@@ -153,6 +153,13 @@
 | 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | 브루트포스 | B2 | ||
 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 브루트포스 | S5 | ||
 | 18428 | [감시 피하기](https://www.acmicpc.net/problem/18428) | 브루트포스 | S1 | ||
+| 2231 | [토너먼트](https://www.acmicpc.net/problem/1057) | 브루트포스 | S3 | ||
+| 2798 | [모든순열](https://www.acmicpc.net/problem/10974) | 브루트포스 | S3 | ||
+| 7568 | [문자열](https://www.acmicpc.net/problem/1120) | 브루트포스 | S4 | ||
+| 18428 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | 브루트포스 | S1 | ||
+| 7568 | [숫자판 점프](https://www.acmicpc.net/problem/2210) | 브루트포스 | S2 | ||
+| 18428 | [부등호](https://www.acmicpc.net/problem/2529) | 브루트포스 | S2 | ||
+| 18428 | [N-Queen](https://www.acmicpc.net/problem/9663) | 브루트포스 | G5 | ||
 
 ### 💡 재귀
 | 번호 | 제목 | 유형 | 레벨 | 비고
@@ -259,3 +266,4 @@
 | 124나라의 숫자 | Math | level2 | ||
 | 전화번호 목록 | String | level2 | ||
 | 최댓값과 최솟값 | Math | level2 | ||
+| N개의  | Math | level2 | ||
