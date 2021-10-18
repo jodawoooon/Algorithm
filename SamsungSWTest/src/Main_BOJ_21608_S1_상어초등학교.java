@@ -26,34 +26,34 @@ public class Main_BOJ_21608_S1_상어초등학교 {
 
 			int stdX = 0;
 			int stdY = 0;
-			int likeMax = -1;
-			int emptyMax = -1;
+			int likeMaxCnt = -1;
+			int emptyMaxCnt = -1;
 			
 			for(int i = 1 ; i <= N ; i++) {
 				for(int j = 1 ; j <= N ; j++) {
 					if(map[i][j]==0) {
-						int tmpMax = 0;
-						int tmpEmpty = 0;
+						int tmpLikeCnt = 0;
+						int tmpEmptyCnt = 0;
 						for(int d = 0 ; d < 4 ; d++) {
 							int nx = i + dx[d];
 							int ny = j + dy[d];
 							if(isIn(nx,ny)){
-								if(isLiked(nx,ny,stdNum)) tmpMax++;
-								if(map[nx][ny]==0) tmpEmpty++;
+								if(isLiked(nx,ny,stdNum)) tmpLikeCnt++;
+								if(map[nx][ny]==0) tmpEmptyCnt++;
 							}
 						}
 						
-						if(likeMax<tmpMax) {
-							likeMax = tmpMax;
-							emptyMax = tmpEmpty;
+						if(likeMaxCnt<tmpLikeCnt) {
+							likeMaxCnt = tmpLikeCnt;
+							emptyMaxCnt = tmpEmptyCnt;
 							stdX = i;
 							stdY = j;
-						}else if(likeMax == tmpMax) {
-							if(emptyMax<tmpEmpty) {
-								emptyMax = tmpEmpty;
+						}else if(likeMaxCnt == tmpLikeCnt) {
+							if(emptyMaxCnt<tmpEmptyCnt) {
+								emptyMaxCnt = tmpEmptyCnt;
 								stdX = i;
 								stdY = j;
-							}else if(emptyMax == tmpEmpty) {
+							}else if(emptyMaxCnt == tmpEmptyCnt) {
 								if(stdX>i) {
 									stdX = i;
 									stdY = j;
